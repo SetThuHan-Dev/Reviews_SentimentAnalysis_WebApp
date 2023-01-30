@@ -8,7 +8,7 @@ Except from these two, this app would not be able to analyze others' contents.
 
 > For Visual Analysis, Histogram and WordCloud are provided.
 
-### https://setthuhan-dev-reviews-sentimentanalysis-webapp-analyze-lshhmk.streamlit.app/
+### https://setthuhan-dev-reviews-sentimentanalysis-webapp-analyze-nfh8q4.streamlit.app/
 
 ## In-App Preview Img of Histogram Chart
 ![Screenshot (25)](https://user-images.githubusercontent.com/113447169/212685345-221bcb79-7de7-4c27-a822-7e7a800c3340.png)
